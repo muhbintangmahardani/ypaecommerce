@@ -1,15 +1,15 @@
-Source Code Playlist Full CRUD PHP MySQL Muba Teknologi
-Teknologi :
+## 3. CRUD PHP MySQL APP E-Commerce ##
 
-PHP 8.*
-Bootstrap 4.*
-MariaDB
-User Login
+1. Teknologi :
 
+    PHP 8.*
+    Bootstrap 4.*
+    MariaDB
+    User Login & Register
+
+2. Fitur Web 
 Akun Admin
 username : admin@gmail.com
 password : admin123
 
-link akses : localhost/app_ecommerce#
-harus yakin
-akankahhdbbskskdiwi
+3. link akses : localhost/app_ecommerce#
