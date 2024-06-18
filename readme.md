@@ -2,10 +2,9 @@
 
 1. Teknologi :
 
-    PHP 8.*
-    Bootstrap 4.*
-    MariaDB
-    User Login & Register
+    *PHP 8.*
+    *Bootstrap 4.*
+    *MariaDB
 
 2. Fitur Web 
 Akun Admin
