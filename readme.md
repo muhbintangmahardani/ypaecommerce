@@ -1,6 +1,6 @@
 ## CRUD PHP MySQL APP E-Commerce ##
 
-1. Teknologi :
+Teknologi :
 
     *PHP 8.*
     *Bootstrap 4.*
