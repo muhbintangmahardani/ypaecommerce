@@ -1,4 +1,4 @@
-## 3. CRUD PHP MySQL APP E-Commerce ##
+## 1. CRUD PHP MySQL APP E-Commerce ##
 
 1. Teknologi :
 
@@ -12,4 +12,4 @@ Akun Admin
 username : admin@gmail.com
 password : admin123
 
-3. link akses : localhost/app_ecommerce#
+3. link akses : localhost/app_ecommerce
