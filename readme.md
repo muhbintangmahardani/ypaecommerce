@@ -10,7 +10,7 @@ e-commerce adalah fleksibilitas manajemen inventaris dan kemudahan akses bagi pe
 * Bootstrap 4.
 * MariaDB
 
-## 2. Fitur Utamaa ##
+## 2. Fitur Utama ##
 * Fitur Web 
 Pengembangan sistem e-commerce mencakup pembuatan platform online yang
 memungkinkan transaksi jual beli digital. Platform ini biasanya memiliki fitur-fitur
@@ -28,6 +28,7 @@ pesanan mereka mulai dari pemesanan hingga pengiriman.
 * Akun Admin
 username : admin@gmail.com
 password : admin123
+* link akses : localhost/app_ecommerce
 
 ## 4. Kontribusi  ##
 Kontribusi dalam bentuk pull request atau melaporkan issue sangat diterima.
