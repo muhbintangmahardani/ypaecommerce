@@ -1,4 +1,4 @@
-## 1. CRUD PHP MySQL APP E-Commerce ##
+## CRUD PHP MySQL APP E-Commerce ##
 
 1. Teknologi :
 
